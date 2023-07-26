@@ -1,6 +1,6 @@
 # poe-ultimate-database
 
-## Here we will manage the csv and corresponding files in order to host the database made by pathofmathh.
+## Here we will manage the csv and corresponding files in order to host the database made by pathofmatth.
 
 How to:
 
