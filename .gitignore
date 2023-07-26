@@ -1,6 +1,4 @@
 **/querydata/*
 *.csv
 *.log
-*.ini
-proxy list.txt
 combine.bat
