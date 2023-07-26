@@ -1,0 +1,306 @@
+beast	craicic chimeral
+beast	craicic maw
+beast	craicic vassal
+beast	farric frost hellion alpha
+beast	farric lynx alpha
+beast	farric wolf alpha
+beast	fenumal plagued arachnid
+beast	craicic spider crab
+beast	farric tiger alpha
+beast	fenumal hybrid arachnid
+beast	saqawine rhex
+beast	primal crushclaw
+beast	primal cystcaller
+beast	primal rhex matriarch
+beast	vivid abberarach
+beast	vivid vulture
+beast	vivid watcher
+beast	wild brambleback
+beast	wild bristle matron
+beast	wild hellion alpha
+beast	craiceann, first of the deep
+beast	farrul, first of the plains
+beast	fenumus, first of the night
+beast	saqawal, first of the sky
+compass		4-charged
+compass		16-charged
+currency	ancient orb	
+currency	armourer's scrap	
+currency	awakened sextant	
+currency	awakener's orb	
+currency	blacksmith's whetstone	
+currency	blessed orb	
+currency	cartographer's chisel	
+currency	chaos orb	
+currency	chromatic orb	
+currency	divine orb	
+currency	elevated sextant	
+currency	engineer's orb	
+currency	enkindling orb	
+currency	exalted orb	
+currency	fracturing orb	
+currency	gemcutter's prism	
+currency	glassblower's bauble	
+currency	harbinger's orb	
+currency	instilling orb	
+currency	jeweller's orb	
+currency	mirror of kalandra	
+currency	oil extractor	
+currency	orb of alchemy	
+currency	orb of alteration	
+currency	orb of annulment	
+currency	orb of augmentation	
+currency	orb of binding	
+currency	orb of chance	
+currency	orb of conflict	
+currency	orb of dominance	
+currency	orb of fusing	
+currency	orb of horizons	
+currency	orb of regret	
+currency	orb of scouring	
+currency	orb of transmutation	
+currency	orb of unmaking	
+currency	portal scroll	
+currency	regal orb	
+currency	ritual vessel	
+currency	rogue's marker	
+currency	sacred orb	
+currency	scroll of wisdom	
+currency	stacked deck	
+currency	surveyor's compass	
+currency	tailoring orb	
+currency	tempering orb	
+currency	vaal orb	
+currency	veiled chaos orb	
+currency	annulment shard	
+currency	exalted shard	
+currency	fracturing shard	
+currency	mirror shard	
+currency	tainted armourer's scrap	
+currency	tainted blacksmith's whetstone	
+currency	tainted blessing	
+currency	tainted chaos orb	
+currency	tainted chromatic orb	
+currency	tainted divine teardrop	
+currency	tainted exalted orb	
+currency	tainted jeweller's orb	
+currency	tainted mythic orb	
+currency	tainted orb of fusing	
+currency	prime regrading lens	
+currency	secondary regrading lens	
+currency	crusader's exalted orb	
+currency	hunter's exalted orb	
+currency	redeemer's exalted orb	
+currency	warlord's exalted orb	
+currency	eldritch chaos orb	
+currency	eldritch exalted orb	
+currency	eldritch orb of annulment	
+currency	exceptional eldritch ember	
+currency	exceptional eldritch ichor	
+currency	grand eldritch ember	
+currency	grand eldritch ichor	
+currency	greater eldritch ember	
+currency	greater eldritch ichor	
+currency	lesser eldritch ember	
+currency	lesser eldritch ichor	
+currency	primal crystallised lifeforce	
+currency	vivid crystallised lifeforce	
+currency	wild crystallised lifeforce	
+currency	sacred crystallised lifeforce	
+currency	abrasive catalyst	
+currency	accelerating catalyst	
+currency	fertile catalyst	
+currency	imbued catalyst	
+currency	intrinsic catalyst	
+currency	noxious catalyst	
+currency	prismatic catalyst	
+currency	turbulent catalyst	
+currency	unstable catalyst	
+currency	tempering catalyst	
+currency	blessing of chayula	
+currency	blessing of esh	
+currency	blessing of tul	
+currency	blessing of uul-netol	
+currency	blessing of xoph	
+essence	remnant of corruption	
+essence	essence of delirium	
+essence	essence of horror	
+essence	essence of hysteria	
+essence	essence of insanity	
+essence	deafening essence of anger	
+essence	deafening essence of anguish	
+essence	deafening essence of contempt	
+essence	deafening essence of doubt	
+essence	deafening essence of dread	
+essence	deafening essence of envy	
+essence	deafening essence of fear	
+essence	deafening essence of greed	
+essence	deafening essence of hatred	
+essence	deafening essence of loathing	
+essence	deafening essence of misery	
+essence	deafening essence of rage	
+essence	deafening essence of scorn	
+essence	deafening essence of sorrow	
+essence	deafening essence of spite	
+essence	deafening essence of suffering	
+essence	deafening essence of torment	
+essence	deafening essence of woe	
+essence	deafening essence of wrath	
+essence	deafening essence of zeal	
+essence	shrieking essence of anger	
+essence	shrieking essence of anguish	
+essence	shrieking essence of contempt	
+essence	shrieking essence of doubt	
+essence	shrieking essence of dread	
+essence	shrieking essence of envy	
+essence	shrieking essence of fear	
+essence	shrieking essence of greed	
+essence	shrieking essence of hatred	
+essence	shrieking essence of loathing	
+essence	shrieking essence of misery	
+essence	shrieking essence of rage	
+essence	shrieking essence of scorn	
+essence	shrieking essence of sorrow	
+essence	shrieking essence of spite	
+essence	shrieking essence of suffering	
+essence	shrieking essence of torment	
+essence	shrieking essence of woe	
+essence	shrieking essence of wrath	
+essence	shrieking essence of zeal	
+fragment	crescent splinter	
+fragment	simulacrum splinter	
+fragment	timeless eternal empire splinter	
+fragment	timeless karui splinter	
+fragment	timeless maraketh splinter	
+fragment	timeless templar splinter	
+fragment	timeless vaal splinter	
+fragment	splinter of chayula	
+fragment	splinter of esh	
+fragment	splinter of tul	
+fragment	splinter of uul-netol	
+fragment	splinter of xoph	
+fragment	divine vessel	
+fragment	sacred blossom	
+fragment	simulacrum	
+fragment	the maven's writ	
+fragment	offering to the goddess	
+fragment	dedication to the goddess	
+fragment	gift to the goddess	
+fragment	tribute to the goddess	
+fragment	fragment of constriction	
+fragment	fragment of enslavement	
+fragment	fragment of eradication	
+fragment	fragment of purification	
+fragment	fragment of the chimera	
+fragment	fragment of the hydra	
+fragment	fragment of the minotaur	
+fragment	fragment of the phoenix	
+fragment	fragment of emptiness	
+fragment	fragment of knowledge	
+fragment	fragment of shape	
+fragment	fragment of terror	
+fragment	mortal grief	
+fragment	mortal hope	
+fragment	mortal ignorance	
+fragment	mortal rage	
+fragment	sacrifice at dawn	
+fragment	sacrifice at dusk	
+fragment	sacrifice at midnight	
+fragment	sacrifice at noon	
+fragment	al-hezmin's crest	
+fragment	baran's crest	
+fragment	drox's crest	
+fragment	veritania's crest	
+fragment	timeless eternal emblem	
+fragment	timeless karui emblem	
+fragment	timeless maraketh emblem	
+fragment	timeless templar emblem	
+fragment	timeless vaal emblem	
+fragment	unrelenting timeless eternal emblem	
+fragment	unrelenting timeless karui emblem	
+fragment	unrelenting timeless maraketh emblem	
+fragment	unrelenting timeless templar emblem	
+fragment	unrelenting timeless vaal emblem	
+fragment	chayula's breachstone	
+fragment	esh's breachstone	
+fragment	tul's breachstone	
+fragment	xoph's breachstone	
+fragment	uul-netol's breachstone	
+fragment	chayula's charged breachstone	
+fragment	esh's charged breachstone	
+fragment	tul's charged breachstone	
+fragment	xoph's charged breachstone	
+fragment	uul-netol's charged breachstone	
+fragment	chayula's enriched breachstone	
+fragment	esh's enriched breachstone	
+fragment	tul's enriched breachstone	
+fragment	uul-netol's enriched breachstone	
+fragment	xoph's enriched breachstone	
+fragment	chayula's pure breachstone	
+fragment	esh's pure breachstone	
+fragment	tul's pure breachstone	
+fragment	uul-netol's pure breachstone	
+fragment	xoph's pure breachstone	
+fragment	chayula's flawless breachstone	
+fragment	esh's flawless breachstone	
+fragment	tul's flawless breachstone	
+fragment	uul-netol's flawless breachstone	
+fragment	xoph's flawless breachstone	
+fragment	archive reliquary key	
+fragment	cosmic reliquary key	
+fragment	forgotten reliquary key	
+fragment	oubliette reliquary key	
+fragment	shiny reliquary key	
+fragment	visceral reliquary key	
+fragment	voidborn reliquary key	
+map		T16
+map		T1
+map		T2
+map		T3
+map		T4
+map		T5
+unique		corrupted
+unique		clean
+unique		corrupted 6-link
+unique		clean 6-link
+blueprint		3 wings
+contract		ilvl 83+
+incubator		ilvl 83
+logbook		ilvl 83
+delirium orb		
+fossil		
+artifacts		
+atlas memory		
+card		
+invitation		
+invocation		
+oil		
+resonator		
+scarab		
+scouting report		
+vial		
+gem		clean 1/20
+gem		clean 3/20
+gem		clean 4/20
+gem		clean 5/20
+gem		clean 20/20
+gem		clean 1/0
+gem		clean 3/0
+gem		clean 4/0
+gem		clean 5/0
+gem		clean 20/0
+gem		corrupted 3/20
+gem		corrupted 4/20
+gem		corrupted 5/20
+gem		corrupted 6/20
+gem		corrupted 20/20
+gem		corrupted 21/20
+gem		corrupted 3/0
+gem		corrupted 4/0
+gem		corrupted 5/0
+gem		corrupted 6/0
+gem		corrupted 20/0
+gem		corrupted 21/0
+gem		phantasmal 20/20
+gem		divergent 20/20
+gem		anomalous 20/20

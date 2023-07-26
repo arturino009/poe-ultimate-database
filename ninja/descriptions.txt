@@ -1,0 +1,40 @@
+ilvl 83	{""key"":""ilvl"",""value"":83}			
+ilvl 83+	{""key"":""ilvl"",""value"":""83+""}			
+4-charged	{""key"":""uses"",""value"":4}			
+16-charged	{""key"":""uses"",""value"":16}			
+T16	{""key"":""tier"",""value"":""16""}			
+T1	{""key"":""tier"",""value"":""1""}			
+T2	{""key"":""tier"",""value"":""2""}			
+T3	{""key"":""tier"",""value"":""3""}			
+T4	{""key"":""tier"",""value"":""4""}			
+T5	{""key"":""tier"",""value"":""5""}			
+corrupted	{""key"":""sixLink"",""value"":false}	{""key"":""corrupted"",""value"":true}	{""key"":""foilVariation"",""value"":null}	
+clean	{""key"":""sixLink"",""value"":false}	{""key"":""corrupted"",""value"":false}	{""key"":""foilVariation"",""value"":null}	
+corrupted 6-link	{""key"":""sixLink"",""value"":true}	{""key"":""corrupted"",""value"":true}	{""key"":""foilVariation"",""value"":null}	
+clean 6-link	{""key"":""sixLink"",""value"":true}	{""key"":""corrupted"",""value"":false}	{""key"":""foilVariation"",""value"":null}	
+3 wings	{""key"":""ilvl"",""value"":""81+""}	{""key"":""totalWings"",""value"":3}	{""key"":""fullyRevealed"",""value"":false}	
+clean 1/20	{""key"":""lvl"",""value"":""1""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	
+clean 3/20	{""key"":""lvl"",""value"":""3""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	
+clean 4/20	{""key"":""lvl"",""value"":""4""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	
+clean 5/20	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	
+clean 20/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	
+clean 1/0	{""key"":""lvl"",""value"":""1""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""0""}	
+clean 3/0	{""key"":""lvl"",""value"":""3""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""0""}	
+clean 4/0	{""key"":""lvl"",""value"":""4""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""0""}	
+clean 5/0	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""0""}	
+clean 20/0	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""0""}	
+corrupted 3/20	{""key"":""lvl"",""value"":""3""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 4/20	{""key"":""lvl"",""value"":""4""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 5/20	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 6/20	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 20/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 21/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""20""}	
+corrupted 3/0	{""key"":""lvl"",""value"":""3""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+corrupted 4/0	{""key"":""lvl"",""value"":""4""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+corrupted 5/0	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+corrupted 6/0	{""key"":""lvl"",""value"":""5""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+corrupted 20/0	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+corrupted 21/0	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":true}	{""key"":""quality"",""value"":""0""}	
+phantasmal 20/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	phantasmal
+divergent 20/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	divergent
+anomalous 20/20	{""key"":""lvl"",""value"":""20""}	{""key"":""corrupted"",""value"":false}	{""key"":""quality"",""value"":""20""}	anomalous
