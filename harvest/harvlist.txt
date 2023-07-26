@@ -1,0 +1,179 @@
+Cold to Fire	Swap Resists
+Cold to Light	Swap Resists
+Fire to Cold	Swap Resists
+Fire to Light	Swap Resists
+Light to Cold	Swap Resists
+Light to Fire	Swap Resists
+Lightning to Cold	Swap Resists
+Lightning to Fire	Swap Resists
+Cold res to Fire	Swap Resists
+Cold res to Light	Swap Resists
+Fire res to Cold	Swap Resists
+Fire res to Light	Swap Resists
+Light res to Cold	Swap Resists
+Light res to Fire	Swap Resists
+Lightning res to Cold	Swap Resists
+Lightning res to Fire	Swap Resists
+
+Mana	Mana
+Strength	Strength
+Dexterity	Dexterity
+Intelligence	Intelligence
+Resist	Resistances
+Accuracy	Accuracy
+Attack Speed	Attack Speed
+Weapon Range	Weapon Range
+Elemental Damage	Elemental Damage
+Area of Effect	Area of Effect
+AoE	Area of Effect
+
+suf	Suffixes
+pref	Prefixes
+1/5	1/5
+at least 5	1/5
+
+nonatt	non-Attack
+noncast	non-Caster
+nonphy	non-Physical
+nonchaos	non-Chaos
+nonspeed	non-Speed
+noncri	non-Critical
+nonfire	non-Fire
+noncold	non-Cold
+nonlight	non-Lightning
+nonlife	non-Life
+nondef	non-Defence
+nonred	non-Red
+nonblu	non-Blue
+nongreen	non-Green
+
+non att	non-Attack
+non cast	non-Caster
+non phy	non-Physical
+non chaos	non-Chaos
+non speed	non-Speed
+non cri	non-Critical
+non fire	non-Fire
+non cold	non-Cold
+non light	non-Lightning
+non life	non-Life
+non def	non-Defence to Defence
+non red	non-Red to Red
+non blu	non-Blue to Blue
+non green	non-Green to Green
+
+notatt	non-Attack
+notcast	non-Caster
+notphy	non-Physical
+notchaos	non-Chaos
+notspeed	non-Speed
+notcri	non-Critical
+notfire	non-Fire
+notcold	non-Cold
+notlight	non-Lightning
+notlife	non-Life
+notdef	non-Defence
+notred	non-Red
+notblu	non-Blue
+notgreen	non-Green
+
+not att	non-Attack
+not cast	non-Caster
+not phy	non-Physical
+not chaos	non-Chaos
+not speed	non-Speed
+not cri	non-Critical
+not fire	non-Fire
+not cold	non-Cold
+not light	non-Lightning
+not life	non-Life
+not def	non-Defence to Defence
+not red	non-Red to Red
+not blu	non-Blue to Blue
+not green	non-Green to Green
+
+attack	Attack
+cast	Caster
+phy	Physical
+chaos	Chaos
+speed	Speed
+crit	Critical
+fire	Fire
+cold	Cold
+light	Lightning
+life	Life
+def	Defence
+
+1 random mod	1 Random Mod
+2 random mod	2 Random Mods
+3 random mod	3 Random Mods
+4 random mod	4 Random Mods
+1random mod	1 Random Mod
+2random mod	2 Random Mods
+3random mod	3 Random Mods
+4random mod	4 Random Mods
+1 mod	1 Random Mod
+2 mod	2 Random Mods
+3 mod	3 Random Mods
+4 mod	4 Random Mods
+1mod	1 Random Mod
+2mod	2 Random Mods
+3mod	3 Random Mods
+4mod	4 Random Mods
+one random mod	1 Random Mod
+two random mod	2 Random Mods
+three random mod	3 Random Mods
+four random mod	4 Random Mods
+onerandom mod	1 Random Mod
+one mod	1 Random Mod
+two mod	2 Random Mods
+three mod	3 Random Mods
+four mod	4 Random Mods
+
+1 high tier mod	1 High tier Mod
+2 high tier mod	2 High tier Mods
+3 high tier mod	3 High tier Mods
+4 high tier mod	4 High tier Mods
+1high tier mod	1 High tier Mod
+2high tier mod	2 High tier Mods
+3high tier mod	3 High tier Mods
+4high tier mod	4 High tier Mods
+1 hightier mod	1 High tier Mod
+2 hightier mod	2 High tier Mods
+3 hightier mod	3 High tier Mods
+4 hightier mod	4 High tier Mods
+1hightier mod	1 High tier Mod
+2hightier mod	2 High tier Mods
+3hightier mod	3 High tier Mods
+4hightier mod	4 High tier Mods
+
+5link	5-link
+5 link	5-link
+6link	6-link
+6 link	6-link
+fivelink	5-link
+five link	5-link
+sixlink	6-link
+six link	6-link
+
+jewel	Jewel
+cluster	Jewel
+abyss	Jewel
+timeless	Jewel
+cobalt	Jewel
+crimson	Jewel
+viridian	Jewel
+divination	Divination Card
+card	Divination Card
+half stack	Divination Card
+sextant	Sextant
+essence	Essence
+oil	Oil
+pale court	Pale Court Key
+delirium	Delirium Orb
+
+new mod	New Mod
+same	Same Mods
+
+all	All
+item	Item
