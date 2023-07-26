@@ -1,0 +1,106 @@
+Mirror of Kalandra,105468.000000000000
+Mirror Shard,5235.99962600000000
+Fracturing Orb,1757.80000000000000
+Tempering Orb,1309.00000000000000
+Tainted Divine Teardrop,374.00000000000000
+Blessing of Chayula,299.20000000000000
+Tailoring Orb,280.0000000
+Sacred Crystallised Lifeforce,224.40000000000000
+Orb of Dominance,216.22000000000000
+Secondary Regrading Lens,210.0000000
+Maven's Orb,
+Blessing of Xoph,187.00000000000000
+Blessing of Tul,187.00000000000000
+Blessing of Esh,187.00000000000000
+Divine Orb,187.0000000
+Blessing of Uul-Netol,150.0000000
+Hunter's Exalted Orb,140.0000000
+Prime Regrading Lens,90.0000000
+Sacred Orb,80.2000000
+Fracturing Shard,75.0000000
+Otherworldly Scouting Report,70.0000000
+Orb of Conflict,58.0000000
+Elevated Sextant,48.8000000
+Awakener's Orb,48.0000000
+Redeemer's Exalted Orb,40.0000000
+Crusader's Exalted Orb,39.0000000
+Exceptional Eldritch Ichor,39.2000000
+Exceptional Eldritch Ember,37.0000000
+Warlord's Exalted Orb,35.0000000
+Tainted Blessing,34.0000000
+Eldritch Chaos Orb,30.0000000
+Eldritch Orb of Annulment,29.0000000
+Tainted Exalted Orb,26.6000000
+Tainted Orb of Fusing,24.8000000
+Exalted Orb,20.0000000
+Comprehensive Scouting Report,13.0000000
+Tainted Mythic Orb,10.0000000
+Charged Compass,10.0000000
+Eldritch Exalted Orb,10.0000000
+Prismatic Catalyst,9.0000000
+Oil Extractor,9.0000000
+Veiled Chaos Orb,9.0000000
+Orb of Annulment,8.49915000000000
+Ancient Orb,7.6872720
+Unstable Catalyst,7.0000000
+Ritual Vessel,5.0000000
+Tainted Chaos Orb,5.0000000
+Blighted Scouting Report,4.7333340
+Grand Eldritch Ember,4.5363600
+Awakened Sextant,4.34962000000000
+Grand Eldritch Ichor,4.12222800000000
+Tainted Chromatic Orb,4.0000000
+Influenced Scouting Report,4.0000000
+Fertile Catalyst,3.8469200
+Stacked Deck,2.19912000000000
+Accelerating Catalyst,2.0000000
+Surveyor's Compass,2.0000000
+Singular Scouting Report,2.0000000
+Delirious Scouting Report,2.0000000
+Harbinger's Orb,1.3333300
+Annulment Shard,1.0000000
+Exalted Shard,1.0000000
+Tainted Jeweller's Orb,1.0000000
+Tainted Armourer's Scrap,1.0000000
+Orb of Scouring,0.98361800000000
+Greater Eldritch Ember,0.9494740
+Greater Eldritch Ichor,0.9490660
+Orb of Unmaking,0.8750000
+Enkindling Orb,0.6666700
+Gemcutter's Prism,0.62084000000000
+Vaal Orb,0.61264000000000
+Regal Orb,0.5000000
+Tempering Catalyst,0.5000000
+Intrinsic Catalyst,0.5000000
+Noxious Catalyst,0.5000000
+Explorer's Scouting Report,0.5000000
+Vaal Scouting Report,0.4845680
+Orb of Regret,0.34894200000000
+Blessed Orb,0.3333300
+Turbulent Catalyst,0.3333300
+Tainted Blacksmith's Whetstone,0.3333300
+Orb of Fusing,0.25619000000000
+Lesser Eldritch Ichor,0.2500000
+Orb of Horizons,0.2268160
+Glassblower's Bauble,0.2222200
+Instilling Orb,0.2222200
+Abrasive Catalyst,0.2000000
+Cartographer's Chisel,0.19448000000000
+Orb of Chance,0.19448000000000
+Engineer's Orb,0.1666700
+Imbued Catalyst,0.1666700
+Lesser Eldritch Ember,0.1666700
+Chromatic Orb,0.15521000000000
+Orb of Alteration,0.0666700
+Jeweller's Orb,0.0645200
+Vivid Crystallised Lifeforce,0.05049000000000
+Orb of Alchemy,0.0416700
+Orb of Augmentation,0.0428520
+Portal Scroll,0.0250000
+Blacksmith's Whetstone,0.0222200
+Orb of Binding,0.0222200
+Wild Crystallised Lifeforce,0.01683000000000
+Primal Crystallised Lifeforce,0.0164780
+Orb of Transmutation,0.0100000
+Scroll of Wisdom,0.0083300
+Armourer's Scrap,0.0090900
