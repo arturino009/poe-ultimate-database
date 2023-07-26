@@ -1,0 +1,63 @@
+Mirror of Kalandra,48412.56
+Mirror Shard,2644.81
+Maven's Orb,715.45
+Tempering Orb,591.03
+122.50
+41.63
+Blessing of Uul-Netol,Blessing of Esh,Blessing of Esh,9.00
+Intrinsic Catalyst,2.79
+0.17
+Exalted Shard,0.17
+217.21
+0.33
+44.32
+Orb of Alteration,0.19
+12.72
+0.03
+5.08
+Fertile Catalyst,3.98
+Awakened Sextant,3.07
+Veiled Chaos Orb,3.01
+Infused Engineer's Orb,3.00
+Tainted Chromatic Orb,2.84
+Harbinger's Orb,2.79
+Orb of Annulment,2.44
+Tainted Orb of Fusing,1.94
+Exalted Shard,1.92
+Stacked Deck,1.67
+Tempering Catalyst,1.00
+Accelerating Catalyst,1
+Prime Sextant,0.87
+Gemcutter's Prism,0.61
+Annulment Shard,0.56
+Simple Sextant,0.50
+Vaal Orb,0.46
+Orb of Scouring,0.44
+Orb of Regret,0.34
+Intrinsic Catalyst,0.34
+Blessed Orb,0.33
+Tainted Jeweller's Orb,0.33
+Tainted Armourer's Scrap,0.32
+Regal Orb,0.28
+Orb of Horizons,0.27
+Silver Coin,0.25
+Turbulent Catalyst,0.25
+Abrasive Catalyst,0.21
+Orb of Alteration,0.19
+Cartographer's Chisel,0.19
+Glassblower's Bauble,0.18
+Imbued Catalyst,0.17
+Noxious Catalyst,0.17
+Enkindling Orb,0.17
+Instilling Orb,0.16
+Tainted Blacksmith's Whetstone,0.11
+Orb of Fusing,0.10
+Orb of Alchemy,0.08
+Orb of Chance,0.08
+Chromatic Orb,0.07
+Orb of Binding,0.07
+Orb of Augmentation,0.06
+Engineer's Orb,0.04
+Jeweller's Orb,0.03
+Orb of Transmutation,0.01
+Blacksmith's Whetstone,0.01
