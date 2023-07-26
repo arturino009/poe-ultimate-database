@@ -1,0 +1,1 @@
+"c:\poe\harvest\discord chat cli\DiscordChatExporter.Cli.exe" export --channel 973702507396227112 --token MjY0NjIwMTg2ODE5MjMxNzU1.X_Xn8Q.AM0LItxvugGYBS0Kf5g104wWP84 --output "c:\poe\harvest\chat.txt" --format "csv" --dateformat "yyyy-MM-dd HH:mm:ss" --after "2022-06-08 11:03:21"
