@@ -1,0 +1,293 @@
+name	id	stack
+Deafening Essence of Hatred	deafening-essence-of-hatred	30
+Deafening Essence of Woe	deafening-essence-of-woe	30
+Deafening Essence of Greed	deafening-essence-of-greed	30
+Deafening Essence of Contempt	deafening-essence-of-contempt	30
+Deafening Essence of Sorrow	deafening-essence-of-sorrow	30
+Deafening Essence of Anger	deafening-essence-of-anger	30
+Deafening Essence of Torment	deafening-essence-of-torment	30
+Deafening Essence of Fear	deafening-essence-of-fear	30
+Deafening Essence of Suffering	deafening-essence-of-suffering	30
+Deafening Essence of Rage	deafening-essence-of-rage	30
+Deafening Essence of Wrath	deafening-essence-of-wrath	30
+Deafening Essence of Doubt	deafening-essence-of-doubt	30
+Deafening Essence of Anguish	deafening-essence-of-anguish	30
+Deafening Essence of Loathing	deafening-essence-of-loathing	30
+Deafening Essence of Spite	deafening-essence-of-spite	30
+Deafening Essence of Zeal	deafening-essence-of-zeal	30
+Deafening Essence of Misery	deafening-essence-of-misery	20
+Deafening Essence of Dread	deafening-essence-of-dread	20
+Deafening Essence of Scorn	deafening-essence-of-scorn	20
+Deafening Essence of Envy	deafening-essence-of-envy	20
+Essence of Hysteria	essence-of-hysteria	5
+Essence of Insanity	essence-of-insanity	5
+Essence of Horror	essence-of-horror	5
+Essence of Delirium	essence-of-delirium	5
+Prime Chaotic Resonator	prime-chaotic-resonator	5
+Scorched Fossil	scorched-fossil	100
+Frigid Fossil	frigid-fossil	100
+Metallic Fossil	metallic-fossil	100
+Jagged Fossil	jagged-fossil	100
+Aberrant Fossil	aberrant-fossil	100
+Pristine Fossil	pristine-fossil	100
+Dense Fossil	dense-fossil	100
+Perfect Fossil	perfect-fossil	30
+Prismatic Fossil	prismatic-fossil	30
+Corroded Fossil	corroded-fossil	30
+Aetheric Fossil	aetheric-fossil	30
+Serrated Fossil	serrated-fossil	30
+Lucent Fossil	lucent-fossil	30
+Shuddering Fossil	shuddering-fossil	30
+Bound Fossil	bound-fossil	30
+Fundamental Fossil	fundamental-fossil	30
+Deft Fossil	deft-fossil	30
+Gilded Fossil	gilded-fossil	30
+Hollow Fossil	hollow-fossil	5
+Bloodstained Fossil	bloodstained-fossil	5
+Faceted Fossil	faceted-fossil	5
+Fractured Fossil	fractured-fossil	5
+Glyphic Fossil	glyphic-fossil	5
+Tangled Fossil	tangled-fossil	5
+Sanctified Fossil	sanctified-fossil	5
+Fine Delirium Orb	fine-delirium-orb	5
+Singular Delirium Orb	singular-delirium-orb	5
+Thaumaturge's Delirium Orb	thaumaturges-delirium-orb	5
+Blacksmith's Delirium Orb	blacksmiths-delirium-orb	5
+Armoursmith's Delirium Orb	armoursmiths-delirium-orb	5
+Cartographer's Delirium Orb	cartographers-delirium-orb	5
+Jeweller's Delirium Orb	jewellers-delirium-orb	5
+Abyssal Delirium Orb	abyssal-delirium-orb	5
+Kalguuran Delirium Orb	kalguuran-delirium-orb	5
+Foreboding Delirium Orb	foreboding-delirium-orb	5
+Obscured Delirium Orb	obscured-delirium-orb	5
+Whispering Delirium Orb	whispering-delirium-orb	5
+Fragmented Delirium Orb	fragmented-delirium-orb	5
+Skittering Delirium Orb	skittering-delirium-orb	5
+Fossilised Delirium Orb	fossilised-delirium-orb	5
+Portentous Delirium Orb	portentous-delirium-orb	5
+Diviner's Delirium Orb	diviners-delirium-orb	5
+Primal Delirium Orb	primal-delirium-orb	5
+Imperial Delirium Orb	imperial-delirium-orb	5
+Timeless Delirium Orb	timeless-delirium-orb	5
+Blighted Delirium Orb	blighted-delirium-orb	5
+Amorphous Delirium Orb	amorphous-delirium-orb	5
+Stacked Deck	stacked-deck	200
+Mortal Rage	rage	5
+Mortal Hope	hope	5
+Mortal Ignorance	ign	5
+Mortal Grief	grie	5
+Fragment of Knowledge	fragment-of-knowledge	5
+Fragment of Shape	fragment-of-shape	5
+Fragment of Terror	fragment-of-terror	5
+Fragment of Emptiness	fragment-of-emptiness	5
+Fragment of the Phoenix	phoenix	5
+Fragment of the Minotaur	minot	5
+Fragment of the Chimera	chimer	5
+Fragment of the Hydra	hydra	5
+Fragment of Purification	fragment-of-purification	5
+Fragment of Eradication	fragment-of-eradication	5
+Fragment of Constriction	fragment-of-constriction	5
+Fragment of Enslavement	fragment-of-enslavement	5
+Timeless Vaal Emblem	timeless-vaal-emblem	5
+Timeless Karui Emblem	timeless-karui-emblem	5
+Timeless Eternal Emblem	timeless-eternal-emblem	5
+Timeless Templar Emblem	timeless-templar-emblem	5
+Timeless Maraketh Emblem	timeless-maraketh-emblem	5
+Unrelenting Timeless Karui Emblem	uber-timeless-karui-emblem	5
+Unrelenting Timeless Maraketh Emblem	uber-timeless-maraketh-emblem	5
+Unrelenting Timeless Eternal Emblem	uber-timeless-eternal-emblem	5
+Unrelenting Timeless Templar Emblem	uber-timeless-templar-emblem	5
+Unrelenting Timeless Vaal Emblem	uber-timeless-vaal-emblem	5
+Esh's Breachstone	eshs-breachstone	5
+Xoph's Breachstone	xophs-breachstone	5
+Tul's Breachstone	tuls-breachstone	5
+Uul-Netol's Breachstone	uul-breachstone	5
+Chayula's Breachstone	chayulas-breachstone	5
+Chayula's Pure Breachstone	chayulas-pure-breachstone	5
+Xoph's Flawless Breachstone	xophs-flawless-breachstone	5
+Tul's Flawless Breachstone	tuls-flawless-breachstone	5
+Esh's Flawless Breachstone	eshs-flawless-breachstone	5
+Uul-Netol's Flawless Breachstone	uul-flawless-breachstone	5
+Chayula's Flawless Breachstone	chayulas-flawless-breachstone	5
+Gift to the Goddess	offer-gift	10
+The Maven's Writ	the-mavens-writ	5
+Simulacrum	simulacrum	5
+Rusted Abyss Scarab	rusted-Abyss-scarab	20
+Rusted Ambush Scarab	rusted-Ambush-scarab	20
+Rusted Bestiary Scarab	rusted-Bestiary-scarab	20
+Rusted Blight Scarab	rusted-Blight-scarab	20
+Rusted Breach Scarab	rusted-breach-scarab	20
+Rusted Cartography Scarab	rusted-Cartography-scarab	20
+Rusted Divination Scarab	rusted-Divination-scarab	20
+Rusted Elder Scarab	rusted-Elder-scarab	20
+Rusted Expedition Scarab	rusted-Expedition-scarab	20
+Rusted Harbinger Scarab	rusted-Harbinger-scarab	20
+Rusted Legion Scarab	rusted-Legion-scarab	20
+Rusted Metamorph Scarab	rusted-Metamorph-scarab	20
+Rusted Reliquary Scarab	rusted-Reliquary-scarab	20
+Rusted Shaper Scarab	rusted-Shaper-scarab	20
+Rusted Sulphite Scarab	rusted-Sulphite-scarab	20
+Rusted Torment Scarab	rusted-Torment-scarab	20
+Polished Abyss Scarab	polished-Abyss-scarab	20
+Polished Ambush Scarab	polished-Ambush-scarab	20
+Polished Bestiary Scarab	polished-Bestiary-scarab	20
+Polished Blight Scarab	polished-Blight-scarab	20
+Polished Breach Scarab	polished-breach-scarab	20
+Polished Cartography Scarab	polished-Cartography-scarab	20
+Polished Divination Scarab	polished-Divination-scarab	20
+Polished Elder Scarab	polished-Elder-scarab	20
+Polished Expedition Scarab	polished-Expedition-scarab	20
+Polished Harbinger Scarab	polished-Harbinger-scarab	20
+Polished Legion Scarab	polished-Legion-scarab	20
+Polished Metamorph Scarab	polished-Metamorph-scarab	20
+Polished Reliquary Scarab	polished-Reliquary-scarab	20
+Polished Shaper Scarab	polished-Shaper-scarab	20
+Polished Sulphite Scarab	polished-Sulphite-scarab	20
+Polished Torment Scarab	polished-Torment-scarab	20
+Gilded Abyss Scarab	gilded-Abyss-scarab	10
+Gilded Ambush Scarab	gilded-Ambush-scarab	10
+Gilded Bestiary Scarab	gilded-Bestiary-scarab	10
+Gilded Blight Scarab	gilded-Blight-scarab	10
+Gilded Breach Scarab	gilded-breach-scarab	10
+Gilded Cartography Scarab	gilded-Cartography-scarab	10
+Gilded Divination Scarab	gilded-Divination-scarab	10
+Gilded Elder Scarab	gilded-Elder-scarab	10
+Gilded Expedition Scarab	gilded-Expedition-scarab	10
+Gilded Harbinger Scarab	gilded-Harbinger-scarab	10
+Gilded Legion Scarab	gilded-Legion-scarab	10
+Gilded Metamorph Scarab	gilded-Metamorph-scarab	10
+Gilded Reliquary Scarab	gilded-Reliquary-scarab	10
+Gilded Shaper Scarab	gilded-Shaper-scarab	10
+Gilded Sulphite Scarab	gilded-Sulphite-scarab	10
+Gilded Torment Scarab	gilded-Torment-scarab	10
+Winged Abyss Scarab	winged-Abyss-scarab	5
+Winged Ambush Scarab	jewelled-Ambush-scarab	5
+Winged Bestiary Scarab	jewelled-Bestiary-scarab	5
+Winged Blight Scarab	winged-Blight-scarab	5
+Winged Breach Scarab	jewelled-breach-scarab	5
+Winged Cartography Scarab	jewelled-Cartography-scarab	5
+Winged Divination Scarab	jewelled-Divination-scarab	5
+Winged Elder Scarab	jewelled-Elder-scarab	5
+Winged Expedition Scarab	winged-Expedition-scarab	5
+Winged Harbinger Scarab	jewelled-Harbinger-scarab	5
+Winged Legion Scarab	jewelled-Legion-scarab	5
+Winged Metamorph Scarab	jewelled-Metamorph-scarab	5
+Winged Reliquary Scarab	jewelled-Reliquary-scarab	5
+Winged Shaper Scarab	jewelled-Shaper-scarab	5
+Winged Sulphite Scarab	jewelled-Sulphite-scarab	5
+Winged Torment Scarab	jewelled-Torment-scarab	5
+Turbulent Catalyst	turbulent-catalyst	20
+Imbued Catalyst	imbued-catalyst	20
+Abrasive Catalyst	abrasive-catalyst	20
+Tempering Catalyst	tempering-catalyst	20
+Fertile Catalyst	fertile-catalyst	20
+Prismatic Catalyst	prismatic-catalyst	20
+Intrinsic Catalyst	intrinsic-catalyst	20
+Noxious Catalyst	noxious-catalyst	20
+Accelerating Catalyst	accelerating-catalyst	20
+Unstable Catalyst	unstable-catalyst	20
+Turbulent Catalyst	turbulent-catalyst	20
+Imbued Catalyst	imbued-catalyst	20
+Mirror Shard	mirror-shard	1
+Exalted Shard	exalted-shard	2
+Splinter of Xoph	splinter-xoph	20
+Splinter of Tul	splinter-tul	20
+Splinter of Esh	splinter-esh	20
+Splinter of Uul-Netol	splinter-uul	10
+Splinter of Chayula	splinter-chayula	5
+Simulacrum Splinter	simulacrum-splinter	20
+Timeless Maraketh Splinter	timeless-maraketh-splinter	10
+Timeless Templar Splinter	timeless-templar-splinter	10
+Timeless Karui Splinter	timeless-karui-splinter	20
+Timeless Eternal Empire Splinter	timeless-eternal-empire-splinter	20
+Timeless Vaal Splinter	timeless-vaal-splinter	20
+Ritual Splinter	ritual-splinter	20
+Crescent Splinter	crescent-splinter	10
+Blessing of Xoph	blessing-xoph	5
+Blessing of Esh	blessing-esh	5
+Blessing of Tul	blessing-tul	5
+Blessing of Uul-Netol	blessing-uul-netol	5
+Blessing of Chayula	blessing-chayula	5
+Orb of Alteration	alt	1000
+Orb of Fusing	fusing	1000
+Orb of Alchemy	alch	1000
+Chromatic Orb	chrome	1000
+Jeweller's Orb	jewellers	1000
+Orb of Chance	chance	1000
+Engineer's Orb	engineers	300
+Cartographer's Chisel	chisel	300
+Orb of Scouring	scour	300
+Blessed Orb	blessed	300
+Orb of Regret	regret	300
+Regal Orb	regal	300
+Vaal Orb	vaal	300
+Silver Coin	silver	300
+Orb of Binding	orb-of-binding	300
+Orb of Horizons	orb-of-horizons	300
+Simple Sextant	simple-sextant	300
+Prime Sextant	prime-sextant	300
+Awakened Sextant	awakened-sextant	300
+Orb of Annulment	annul	50
+Divine Orb	divine	50
+Ancient Orb	ancient-orb	50
+Harbinger's Orb	harbingers-orb	50
+Orb of Unmaking	orb-of-unmaking	50
+Veiled Chaos Orb	veiled-chaos-orb	50
+Enkindling Orb	enkindling-orb	50
+Instilling Orb	instilling-orb	50
+Facetor's Lens	facetors	5
+Prime Regrading Lens	prime-regrading-lens	5
+Secondary Regrading Lens	secondary-regrading-lens	5
+Tempering Orb	tempering-orb	5
+Tailoring Orb	tailoring-orb	5
+Elevated Sextant	elevated-sextant	5
+Sacred Orb	sacred-orb	5
+Infused Engineer's Orb	infused-engineers-orb	5
+Tainted Chromatic Orb	tainted-chromatic-orb	100
+Tainted Orb of Fusing	tainted-orb-of-fusing	100
+Tainted Jeweller's Orb	tainted-jewellers-orb	100
+Tainted Armourer's Scrap	tainted-armourers-scrap	100
+Tainted Blacksmith's Whetstone	tainted-blacksmiths-whetstone	100
+Tainted Chaos Orb	tainted-chaos-orb	10
+Tainted Exalted Orb	tainted-exalted-orb	10
+Tainted Mythic Orb	tainted-mythic-orb	10
+Tainted Divine Teardrop	tainted-divine-teardrop	5
+Tainted Blessing	tainted-blessing	5
+Astragali	astragali	50
+Exotic Coinage	exotic-coinage	50
+Scrap Metal	scrap-metal	50
+Burial Medallion	burial-medallion	50
+A Master Seeks HelpZana	a-master-seeks-help-zana	10
+A Master Seeks HelpAlva	a-master-seeks-help-alva	10
+A Master Seeks HelpJun	a-master-seeks-help-jun	10
+Fire from the Sky	fire-from-the-sky	10
+Ice from Above	ice-from-above	10
+Lightning Falls	lightning-falls	10
+Crushing Squall	crushing-squall	20
+The Undead Storm	the-undead-storm	10
+Vaal Winds	vaal-winds	10
+Bountiful Traps	bountiful-traps	10
+Monstrous Treasure	monstrous-treasure	10
+The Twins	the-twins-prophecy	10
+Plague of Frogs	plague-of-frogs	20
+Plague of Rats	plague-of-rats	20
+Twice Enchanted	twice-enchanted	20
+The Lost Maps	the-lost-maps	20
+The Feral Lord I	the-feral-lord-i	20
+Hidden Reinforcements	hidden-reinforcements	20
+Rebirth	rebirth-prophecy	20
+Deadly Twins	deadly-twins	20
+Soil, Worms and Blood	soil-worms-and-blood	20
+The Hungering Swarm	the-hungering-swarm	20
+The Cursed Choir	the-cursed-choir	20
+Dungeon Map	dungeon-map-tier-1	20
+Estuary Map	estuary-map-tier-1	20
+Haunted Mansion Map	haunted-mansion-map-tier-1	20
+Stagnation Map	stagnation-map-tier-1	20
+Forge of the Phoenix Map	forge-of-the-phoenix-map	10
+Lair of the Hydra Map	lair-of-the-hydra-map	10
+Maze of the Minotaur Map	maze-of-the-minotaur-map	10
+Pit of the Chimera Map	pit-of-the-chimera-map	10
+Tower Map	tower-map-tier-3	20
+Tower Map	tower-map-tier-6	20
+Tropical Island Map	tropical-island-map-tier-14	20
