@@ -1,0 +1,521 @@
+Build
+Билд
+Starter
+Стартер
+Scion
+Ascendant
+Elementalist
+Necromancer
+Occultist
+Chieftain
+Berserker
+Juggernaut
+Raider
+Pathfinder
+Deadeye
+Inquisitor
+Hierophant
+Guardian
+Slayer
+Gladiator
+Champion
+Assassin
+Trickster
+Saboteur
+Aura Stack
+Int Stack
+Dex Stack
+Str Stack
+Intelligence Stack
+Dexterity Stack
+Strength Stack
+Cast on Crit
+CoC
+Slinger
+Spellslinger
+Wander
+Spider
+Operative
+Slave Driver
+Autobomber
+BF/BB
+Cyclone
+Energy Blade
+Temporal Rift
+Tornado
+PConc
+Concoction
+Poisonous Concoction
+Explosive Concoction
+Galvanic Field
+Lightning Conduit
+Soul Link
+Protective Link
+Intuitive Link
+Vampiric Link
+Flame Link
+Destructive Link
+Absolution
+Ancestral Protector
+Ancestral Warchief
+Animate Weapon
+Arc Build
+Armageddon Brand
+Artillery Ballista
+Aura Support
+Ball Lightning
+Bane
+Barrage
+Blade Blast
+Blade Flurry
+Blade Trap
+Blade Vortex
+Bladefall
+Bladestorm
+Blast Rain
+Blazing Salvo
+Blight Build
+Blink Arrow
+Mirror Arrow
+Bodyswap
+Boneshatter
+Burning Arrow
+Caustic Arrow
+Chain Hook
+Chains of Command
+Charged Dash
+Cleave
+Cobra Lash
+Cold Snap
+Consecrated Path
+Corrupting Fever
+Crackling Lance
+Creeping Frost
+Cremation
+Curse Support
+Dancing Dervish
+Dark Pact
+Death Aura
+Detonate Dead
+Discharge
+Divine Ire
+Dominating Blow
+Doom Blast
+Double Strike
+Dual Strike
+Earthquake
+Earthshatter
+Elemental Hit
+Ele Hit
+Essence Drain
+Contagion
+Ethereal Knives
+Explosive Arrow
+Explosive Trap
+Exsanguinate
+Eye of Winter
+Fire Burst
+Fire Trap
+Fireball
+Firestorm
+Flame Dash
+Flame Surge
+Flame Wall
+Flameblast
+Flamethrower Trap
+Flicker Strike
+Forbidden Rite
+Freezing Pulse
+Frenzy
+Frost Blades
+Frost Bomb
+Frostbolt
+Galvanic Arrow
+General's Cry
+Glacial Cascade
+Glacial Hammer
+Ground Slam
+Heavy Strike
+Herald of Agony
+HoAg
+Herald of Purity
+Herald of Thunder
+Hexblast
+Flame Totem
+Hydrosphere
+Ice Crash
+Ice Nova
+Ice Shot
+Ice Spear
+Ice Trap
+Icicle Mine
+Incinerate
+Infernal Blow
+Kinetic Blast
+Kinetic Bolt
+Lacerate
+Lancing Steel
+Lightning Arrow
+Lightning Spire Trap
+Lightning Strike
+Lightning Tendrils
+Lightning Trap
+Lightning Warp
+Manabond
+Mirror Arrow
+Molten Burst
+Molten Strike
+Orb of Storms
+Penance Brand
+Perforate
+Pestilent Strike
+Power Siphon
+Puncture
+Purifying Flame
+Pyroclast Mine
+Queen's Demand
+Rain of Arrows
+Spectre
+Zombie
+Reave
+Righteous Fire
+Rolling Magma
+Scorching Ray
+Scourge Arrow
+Seismic Trap
+Shattering Steel
+Shield Charge
+Shield Crush
+Shock Nova
+Shockwave Totem
+Shrapnel Ballista
+Siege Ballista
+Smite
+Soulrend
+Soulwrest
+Spark
+Spectral Helix
+Spectral Shield Throw
+Spectral Throw
+Split Arrow
+Splitting Steel
+Static Strike
+Storm Brand
+Storm Burst
+Storm Call
+Storm Rain
+Stormbind
+Stormblast Mine
+Summoner
+Carrion Golem
+Chaos Golem
+Flame Golem
+Holy Relic
+Ice Golem
+Lightning Golem
+Raging Spirit
+SRS
+Reap
+Reaper
+Skeleton
+Stone Golem
+Sunder
+Sweep
+Tectonic Slam
+Tornado Shot
+Toxic Rain
+Unearth
+Venom Gyre
+Viper Strike
+Void Sphere
+Volatile Dead
+Voltaxic Burst
+Vortex
+Rage Vortex
+Wave of Conviction
+Whispering Ice
+Wild Strike
+Winter Orb
+Wintertide Brand
+Wither
+Торнадо
+Ядовитая смесь
+Связь
+Аниматрон
+Артиллерийская баллиста
+Беззащитность
+Бесплотные ножи
+Бешенство
+Боевое безумие
+Божественный гнев
+Бросок кобры
+Бросок призрачного щита
+Вестник агонии
+Вестник грома
+Вестник льда
+Вестник пепла
+Вестник чистоты
+Взрыв клинков
+Взрыв порчи
+Взрывная ловушка
+Взрывная стрела
+Вихрь
+Вихрь ваал
+Вихрь клинков
+Вихрь клинков ваал
+Вихрь стрел
+Внезапный удар
+Вождь предков
+Вождь предков ваал
+Возврат клейм
+Волна осуждения
+Волна холода
+Восполняющий тотем
+Выброс пламени
+Гидросфера
+Гордость
+Горючесть
+Горящая стрела
+Горящая стрела ваал
+Грация
+Грация ваал
+Грозный гнев
+Грозовой взрыв
+Грозовой переход
+Губительный шаг
+Двойной удар
+Двойной удар ваал
+Дисциплина
+Дисциплина ваал
+Дождь взрывов
+Дробящая сталь
+Дымовая мина
+Едкая стрела
+Жгучая злоба
+Живое оружие
+Живучесть
+Заряженный рывок
+Защитник предков
+Землетрясение
+Землетрясение ваал
+Зимняя сфера
+Злорадство
+Знамя войны
+Знамя страха
+Инфекция
+Искра
+Искра ваал
+Искрящееся копьё
+Испепеление
+Камень и плоть
+Кара билд
+Кинетический взрыв
+Кинетический заряд
+Клеймо Армагеддона
+Клеймо бури
+Клеймо зимы
+Клеймо покаяния
+Клеймо чаротворца
+Клич полководца
+Клич предков
+Клич преисподней
+Клич сплочения
+Клич стойкости
+Кольцо льда
+Кольцо льда ваал
+Кольцо молний
+Кремация
+Кровавая жатва
+Кровавый угар
+Кровь и песок
+Круг яда
+Круговой взмах
+Леденящий молот
+Леденящий молот ваал
+Ледяная ловушка
+Ледяное копье
+Ледяное сокрушение
+Ледяной выстрел
+Ледяной каскад
+Ледяной скачок
+Ледяные клинки
+Ливень стрел
+Ливень стрел ваал
+Ловушка молний
+Ловушка молний ваал
+Ловушка переливания
+Ловушка переманивания
+Ловушка шпиля молний
+Ловушка-огнемёт
+Магмовый удар
+Медвежий капкан
+Метка браконьера
+Метка вождя
+Метка снайпера
+Метка убийцы
+Мечепад
+Мор билд
+Мор ваал
+Моровой удар
+Морозная бомба
+Морозный шар
+Морозный щит
+Надрез
+Наказание
+Наскок
+Нестабильный труп
+Носитель чумы
+Обжигающие узы
+Обмен телами
+Обморожение
+Огненная ловушка
+Огненный рывок
+Огненный шар
+Огненный шар ваал
+Огненный шторм
+Окаменелая кровь
+Опаляющий луч
+Опустошение
+Опустошение ваал
+Осадная баллиста
+Освящённый путь
+Осквернение
+Осколочная баллиста
+Отмщение
+Отчаяние
+Очередь
+Очищающее пламя
+Парирование
+Парный удар
+Перелив энергии
+Перелив энергии ваал
+Печать силы
+Пирокластовая мина
+Пламенный взрыв
+Пламенный взрыв ваал
+Побеги молний
+Погибель
+Погибель от молнии ваал
+Погибель от огня ваал
+Погибель от холода ваал
+Поглощающий тотем
+Подношение духа
+Подношение костей
+Подношение плоти
+Поднятие зомби
+Подрыв трупа
+Подрыв трупа ваал
+Ползучая магма
+Ползучий мороз
+Порыв клинков
+Похищение сущности
+Праведный огонь
+Праведный огонь ваал
+Призрачный бег
+Призрачный бросок
+Призрачный бросок ваал
+Призыв бури
+Призыв бури ваал
+Голем
+Призыв голема льда
+Призыв голема молнии
+Призыв голема огня
+Призыв голема хаоса
+Призыв к бессмертию
+Призыв каменного голема
+Призыв мехаботов
+Неистовый дух
+Призыв неистового духа
+Священная реликвия
+Призыв священной реликвии
+Призыв трупного голема
+Проводимость
+Пронзающая сталь
+Пронзающие шипы
+Пурга
+Путы времени
+Пылающий залп
+Разлом земли
+Разрубание
+Разрыв души
+Разряд
+Раскалывающая сталь
+Раскол
+Расколотая стрела
+Расплавленный панцирь
+Расплавленный панцирь ваал
+Рассечение
+Расчётливый удар
+Решимость
+Рывок
+Сбор билд
+Свирепый вихрь
+Северная броня
+Сейсмическая ловушка
+Сейсмический клич
+Слабость
+Сокрушающий щит
+Сотворение призрака
+Сотворение скелетов
+Сотворение скелетов ваал
+Сотрясающий тотем
+Сотрясение
+Сотрясение ваал
+Спасение от молний
+Спасение от огня
+Спасение от стихий
+Спасение от холода
+Спешка
+Спешка ваал
+Стальная кожа
+Статичный разряд
+Стена льда
+Стена пламени
+Стрела ловчего
+Стрела молнии
+Стрела скверны
+Стрела-двойник
+Стрела-телепорт
+Сфера бурь
+Сфера пустоты
+Тектонический удар
+Тёмный договор
+Токсичный дождь
+Тотем священного огня
+Тотем-приманка
+Точность
+Тяжёлый удар
+Око зимы
+Увядание
+Удар власти
+Удар гадюки
+Удар молнии
+Удар молнии ваал
+Удар преисподней
+Удар стихии
+Удар щитом
+Укус стужи
+Укус стужи ваал
+Ураган лезвий
+Устрашающий клич
+Уязвимость к стихиям
+Фанатизм
+Холодная ненависть
+Цепной крюк
+Цепь молний
+Цепь молний ваал
+Чародейский покров
+Чароплёт
+Шальной удар
+Шаровая молния
+Шквал клинков
+Шквальная мина
+Штормовая мина
+Щит бури
+Эксгумация
+Электризующая стрела
+Электрическое поле
+Ясность ума
+Ясность ума ваал
+Фликер
+Рипер
